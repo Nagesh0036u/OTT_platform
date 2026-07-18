@@ -5,7 +5,7 @@ created a ott platorm
 A content-based movie recommendation system built using Machine Learning and Streamlit.
 
 ## DEMO LINK:
-https://mini-netflix-rlfmvmrqvlvwqddff8us43.streamlit.app/
+https://mini-netflix-ntb8g2di3ynf628xrobc3b.streamlit.app/
 
 ## Features
 
